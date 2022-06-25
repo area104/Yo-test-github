@@ -17,3 +17,5 @@ list.pop(0)
 
 #แสดงค่าด้วยคำสั่ง print
 print(list)
+
+print(len(list))
